@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Experiment 2</title>
+</head>
+<body>
+<ol>
+<li>Web programming</li>
+<ol type="i">
+<li>HTML</li>
+<li>CSS</li>
+</ol>
+</ol>
+<ul>
+<li>Javascript</li>
+<ul>
+<li>React JS</li>
+</ul>
+</ul>
+</body>
+</html>
