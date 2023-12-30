@@ -1,0 +1,18 @@
+<html>
+<body>
+<form method="post">
+Enter Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text"
+name="name"><br><br>
+Enter Course &nbsp;&nbsp;&nbsp;<input type="text" name="course"><br><br>
+Enter semester <input type="text" name="sem"><br><br>
+<input type="submit" name="submit">
+</form>
+</body>
+</html>
+<?php
+if(isset($_POST["submit"])){
+echo "Name is ".$_POST['name'];
+echo "<br>Course is ".$_POST['course'];
+echo "<br>Sem is ".$_POST['sem'];
+}
+?>
