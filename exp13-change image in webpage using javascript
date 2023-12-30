@@ -1,0 +1,13 @@
+<html>
+<head>
+</head>
+<body>
+<img id="myimage" src="Assets/images/pic_bulboff.gif" style="width:155px">
+<button
+onclick="document.getElementById('myimage').src='Assets/images/pic_bulbon.gif'">Turn
+on</button>
+<button
+onclick="document.getElementById('myimage').src='Assets/images/pic_bulboff.gif'">Turn
+off</button>
+</body>
+</html>
