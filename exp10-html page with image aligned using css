@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>CSS 4</title>
+<style>
+.center{
+display:block;
+margin:0 auto;
+}
+p{
+background-color:red;
+}
+</style>
+</head>
+<body>
+<p>Center an image</p>
+<img src="rit.jpg" class="center" width=500px height=500px>
+<p>Town Paris</p>
+</body>
+</html>
