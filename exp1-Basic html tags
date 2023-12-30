@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Experiment 1</title>
+</head>
+<body bgcolor="red">
+<h1>This is a H1 Heading</h1>
+<h2>This is a H2 Heading</h2>
+<h3>This is a H3 Heading</h3>
+<h4>This is a H4 Heading</h4>
+<h5>This is a H5 Heading</h5>
+<h6>This is a H6 Heading</h6>
+<p>This is a <b>Paragraph</b> <i>with</i> <u>different</u> tags</p>
+<p align="right">Right Align</p>
+<marquee>This is a scrolling content</marquee>
+<img src="Basic/Assets/Images/rit1.jpg" alt="college image"><br/>
+<a href="http://www.google.com">Google</a>
+</body>
+</html>
