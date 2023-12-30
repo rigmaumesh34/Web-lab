@@ -1,0 +1,45 @@
+<html>
+<head>
+ <title></title>
+ <style>
+ h1 {
+ text-align: center;
+ color: red;
+ }
+ h2 {
+ color: white;
+ background-color: blue;
+ }
+body {
+ background-color: yellow;
+ }
+ p {
+ border:2px solid;
+ }
+17
+ </style>
+</head>
+<body>
+<h1>RIGMA UMESH</h1>
+<h2>PERSONAL DETAILS</h2>
+<ul>
+<li>Age</li>
+<li>Address</li>
+</ul>
+<h2>EDUCATIONAL DETAILS</h2>
+<ul>
+<li>SSLC</li>
+<li>HSS</li>
+<li>GRADUATION</li>
+</ul>
+<h2>HOBBIES</h2>
+<ul>
+<li>Reading </li>
+<li>Drawing</li>
+</ul>
+<p><u>CONTACT DETAILS</u><br>
+Mobile Number:9898786454 <br>
+Email id:rigma@gmail.com<br>
+</p>
+</body>
+</html>
