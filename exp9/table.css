@@ -1,0 +1,20 @@
+#table1{
+width:100%;
+font-family:'Sans-serif';
+21
+border-collapse:collapse;
+}
+th{
+padding:20px 0;
+text-align:center;
+color:white;
+background-color:#b22222;
+border:1px solid grey;
+}
+td{
+padding :8px;
+border:1px solid grey;
+}
+tr:hover{background-color:burlywood;}
+tr:nth-child(even){background-color:#f2f2f2;
+}
