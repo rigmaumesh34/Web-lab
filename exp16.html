@@ -1,0 +1,20 @@
+<html>
+<body>
+<form method="post">
+Enter a number <input type="number" name="number">
+<input type="submit" name="submit">
+</form>
+</body>
+</html>
+<?php
+if(isset($_POST["submit"])){
+$n=$_POST["number"];
+if($n>=0){
+$f=1;
+for($i=$n;$i>=1;$i--)
+$f=$f*$i;
+echo "Factorial of $n is $f";
+}else
+echo "Please provide a positive number";
+}
+?>
