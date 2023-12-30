@@ -1,0 +1,109 @@
+<html>
+<head>
+<title>Experiment 3</title>
+</head>
+<body>
+<h1 style="color: blue;text-align: center;">Rajiv Gandhi Institute of Technology</h1>
+<marquee style="color: green;"
+>Be a centre of technological excellence for the betterment of society.To
+impart professional education to students from all sectors of the society
+to mould them to be competent, committed, research oriented and socially
+responsible citizens capable of deploying technology for the goodwill of
+society.</marquee >
+<h2 style="color: white; background-color: red">About Us</h2>
+<img src="rit.jpg" alt="College image" />
+5
+<p style="text-align: justify">
+Rajiv Gandhi Institute of Technology, named after the late Prime Minister
+Sri Rajiv Gandhi
+</p>
+<h2 style="color: white;background-color: red">Courses Offered</h2>
+<p style="text-align: justify">
+All courses offered by RIT are affiliated to APJ Abdul Kalam Technological
+University
+</p>
+<table border="1">
+<tr>
+<td colspan="3">UG</td>
+</tr>
+<tr>
+<th>COURSE</th>
+<th>DEPARTMENT</th>
+<th>INTAKE</th>
+</tr>
+<tr>
+<td rowspan="5">BTech</td>
+<td>Civil Engineering</td>
+<td>66</td>
+</tr>
+<tr>
+<td>Mechanical Engineering</td>
+<td>66</td>
+</tr>
+<tr>
+<td>Electrical & Electronics Engineering</td>
+<td>66</td>
+</tr>
+<tr>
+6
+<td>Electronics Engineering</td>
+<td>66</td>
+</tr>
+<tr>
+<td>CS Engineering</td>
+<td>66</td>
+</tr>
+<tr>
+<td>B.Arch</td>
+<td>Architecture</td>
+<td>40</td>
+</tr>
+</table><br>
+<table border="1">
+<tr>
+<td colspan="3">PG</td>
+</tr>
+<tr>
+<th>COURSE</th>
+<th>DEPARTMENT</th>
+<th>SPECIALIZATION</th>
+<th>INTAKE</th>
+</tr>
+<tr>
+<td rowspan="6">MTech</td>
+<td>Civil Engineering</td>
+<td>Transportation engineering</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Mechanical Engineering</td>
+<td>Industrial Engg & Management</td>
+7
+<td>18</td>
+</tr><tr>
+<td>Electrical & Electronics Engineering</td>
+<td>Industrial drives and control</td>
+<td>18</td>
+</tr><tr>
+<td>Electronics & Communication Engineering</td>
+<td>Advanced communication and information system</td>
+<td>18</td>
+</tr><tr>
+<td>Electronics & Communication Engineering</td>
+<td>Advanced Electronics and communication</td>
+<td>18</td>
+</tr> <tr>
+<td>Computer Science & Engineering</td>
+<td>Computer Science and Engineering</td>
+<td>18</td></tr><tr>
+<td>MCA</td>
+<td>MCA</td>
+<td>Computer Application</td>
+<td>60</td></tr></table>
+<h2 style="color: white; background-color: red">Contact Us</h2>
+<h3 style="color: blue;">Address for communication</h3>
+<p>Vellor PO<br/>Pambady<br/>
+Kottayam-686501,Kerala State.</p>
+<a href="http://www.rit.ac.in/">Official Website</a>
+</body>
+</html>
